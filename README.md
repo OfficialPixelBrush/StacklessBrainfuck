@@ -23,3 +23,9 @@ Simply because I had the idea. Plus this may be useful if I ever wanted to build
 Frankly, even I'm surprised this actually works!
 
 I got the idea a few years back while I was watching a school acquaintence work on their own brainfuck interpreter, and struggle with the brackets quite a bit. Admittedly, that guy was doing it in ANSI C, if I recall correctly.
+
+## Are you the first one with this idea?
+After looking around a bit, no. Someone had done this exact same idea already.
+[Shoutout to jhoviatt!](https://github.com/jhoviatt/bfi)
+
+But this idea was enough of a burning question for me to want to implement regardless.
