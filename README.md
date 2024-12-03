@@ -10,6 +10,10 @@ If the bracket matches its condition to skip to its equivalent, the program is i
 I've successfully run two programs.
 - The [Hello World!](https://en.wikipedia.org/wiki/Brainfuck#Hello_World!) linked on the [Brainfuck Wikipedia article](https://en.wikipedia.org/wiki/Brainfuck)
 - This [Mandelbrot Visualizer](https://github.com/queue-miscreant/mandelbrot-brainfuck) written in Brainfuck
+- A few programs from [some brainfuck fluff](http://www.brainfuck.org/)
+    - [fib.b](http://www.brainfuck.org/fib.b)
+    - [sierpinski.b](http://www.brainfuck.org/sierpinski.b)
+    - Others may run too, but I cannot tell how they're supposed to work or I didn't test them
 
 Which I'd say is functional enough!
 
